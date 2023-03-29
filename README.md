@@ -57,6 +57,22 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need the following tools:
+- Postgresql installed on your computer
+- IDE(e.g.: Vscode,...)
+- Terminal
+
+### Setup
+
+Clone this repository to your desired folder:
+`https://github.com/Balikuddembe/Vet-clinic-database`
+
+### Install
+
 This repository includes files with plain SQL that can be used to recreate a database:
 
 - Use [schema.sql](./schema.sql) to create all tables.
@@ -106,6 +122,6 @@ I would like to thank microverse curriculum team for the developed content
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

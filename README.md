@@ -2,6 +2,9 @@
   <h3><b>Vet Clinic Database</b></h3>
 </div>
 
+<img src="drawSQL-vetclinic-export-2023-04-05.png" alt="schema diagram" height="auto" />
+<br/>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
